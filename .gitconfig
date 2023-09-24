@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+        name = Greg Dyer
+        email = gregjcdyer@gmail.com
+        signingkey = B387F1EFD30C63DA
+[commit]
+        gpgsign = true
+[pull]
+        rebase = true
